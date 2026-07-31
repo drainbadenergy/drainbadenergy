@@ -63,10 +63,10 @@ weakness: Merge conflicts, cold coffee
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=drainbadenergy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=drainbadenergy&theme=radical&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=drainbadenergy&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff" width="97%"/>
 
 </div>
 
@@ -76,7 +76,7 @@ weakness: Merge conflicts, cold coffee
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/YOUR_USERNAME)
+[![trophy](https://github-profile-trophy.vercel.app/?username=drainbadenergy&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/drainbadenergy)
 
 </div>
 
@@ -86,9 +86,8 @@ weakness: Merge conflicts, cold coffee
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-39FF14?style=for-the-badge&logo=Linkedin&logoColor=black)](https://linkedin.com/in/YOUR_LINK)
-[![Twitter](https://img.shields.io/badge/-Twitter-39FF14?style=for-the-badge&logo=Twitter&logoColor=black)](https://twitter.com/YOUR_LINK)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-39FF14?style=for-the-badge&logo=About.me&logoColor=black)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-39FF14?style=for-the-badge&logo=Linkedin&logoColor=black)]([https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/ayush-rai-808999dgcd/))
+[![Twitter](https://img.shields.io/badge/-Twitter-39FF14?style=for-the-badge&logo=Twitter&logoColor=black)](https://twitter.com/drainbadenergy)
 
 </div>
 
@@ -96,7 +95,7 @@ weakness: Merge conflicts, cold coffee
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=SYSTEM%20VISITS&color=39FF14&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=drainbadenergy&label=SYSTEM%20VISITS&color=39FF14&style=for-the-badge)
 
 <sub>⚡ terminal session terminated — refresh to reconnect ⚡</sub>
 
