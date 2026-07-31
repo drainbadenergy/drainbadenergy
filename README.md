@@ -32,8 +32,7 @@ ayush@terminal:~$ whoami
 - 🔭 Building **TYCHE** — a PPO agent that has survived a simulated flash crash, a liquidity crisis, and a pump-and-dump without touching my actual savings
 - 🛠️ Shipping inventory tooling at **DoughAsYouLike** — RBAC, optimistic concurrency, and the occasional 2am stale-cache bug
 - 🌱 Reading up on market microstructure and multi-agent RL
-- 💬 Ask me about: JWT auth done properly, MongoDB version-key concurrency, or why my trading bot respects stop-losses better than most humans do
-- ⚡ Fun fact: I'm a co-inventor on an Indian patent application before finishing my degree
+- 💬 Ask me about: why my trading bot respects stop-losses better than most humans do
 
 ---
 
@@ -97,13 +96,6 @@ Dockerized, deployed on AWS EC2, cron-scheduled for zero-touch daily alerts stra
 > if a card above looks broken: it's almost always the shared public stats instance getting rate-limited, not your repo — see `SETUP.md` for the self-host fix.
 
 ---
-
-### 🏆 achievements & leadership
-
-- 📜 **Indian Patent Application 202621052095 A** (2025–2026) — co-inventor, IoT-based real-time health monitoring (heart rate, SpO2, temperature)
-- 🎨 **Design & Media Team Head**, Matheletes Club & CodeX Club, SIT Pune — leading a team of 10 since Aug 2024
-- 🌐 **Hacktoberfest 2024** — 4+ merged PRs into open-source repos
-
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
 <sub>thanks for scrolling this far — now go build something.</sub>
