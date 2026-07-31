@@ -19,14 +19,6 @@ ayush@terminal:~$ whoami
 > Currently teaching a PPO agent not to blow up a crypto portfolio
 > Status: probably debugging a stale API response cache somewhere
 ```
-
-<!--TICKER:START-->
-### 📡 live from the trading terminal
-`🟢 BTC —,— · 🟢 ETH —,—` — refreshes every 6h via [update_ticker.py](./scripts/update_ticker.py), the same feed [TYCHE](#-tyche--crypto-quant-rl-agent) trains on. First run fills this in.
-<!--TICKER:END-->
-
----
-
 ### 🚀 currently
 
 - 🔭 Building **TYCHE** — a PPO agent that has survived a simulated flash crash, a liquidity crisis, and a pump-and-dump without touching my actual savings
@@ -92,11 +84,8 @@ Dockerized, deployed on AWS EC2, cron-scheduled for zero-touch daily alerts stra
 </picture>
 
 </div>
-
-> if a card above looks broken: it's almost always the shared public stats instance getting rate-limited, not your repo — see `SETUP.md` for the self-host fix.
-
 ---
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
-<sub>thanks for scrolling this far — now go build something.</sub>
+<sub>thanks for scrolling this far </sub>
 </div>
