@@ -13,9 +13,8 @@
 
 ```bash
 ayush@terminal:~$ whoami
-> B.Tech CSE @ Symbiosis Institute of Technology, Pune — Class of 2028 (CGPA 8.1)
+> B.Tech CSE @ Symbiosis Institute of Technology, Pune — Class of 2028 
 > Full-Stack Dev Intern @ DoughAsYouLike — Next.js / Express / MongoDB
-> Co-inventor on an Indian patent for IoT-based health monitoring
 > Currently teaching a PPO agent not to blow up a crypto portfolio
 > Status: probably debugging a stale API response cache somewhere
 ```
@@ -49,7 +48,7 @@ Trained on 31.5M Binance data points → **15–18% annualized backtested return
 <br/>
 CLI screener across 467 NSE stocks with a 6-gate filter (trend, volatility contraction, relative strength, institutional volume, breakout, anti-chase buffer), all vectorized in pandas.
 
-Dockerized, deployed on AWS EC2, cron-scheduled for zero-touch daily alerts straight to Telegram.
+Dockerized, deployed, cron-scheduled for zero-touch daily alerts straight to Telegram.
 
 `Python` `Pandas` `Telegram API` `Docker` `AWS`
 
