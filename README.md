@@ -71,10 +71,10 @@ Dockerized, deployed, cron-scheduled for zero-touch daily alerts straight to Tel
 ### 📊 stats
 
 <div align="center">
-
+<!-- 
 <img height="165" src="https://github-readme-stats-mu-lyart-17.vercel.app/api?username=drainbadenergy&show_icons=true&theme=synthwave&hide_border=true" alt="github stats"/>
 <img height="165" src="https://github-readme-stats-mu-lyart-17.vercel.app/api/top-langs/?username=drainbadenergy&layout=compact&theme=synthwave&hide_border=true" alt="top languages"/>
-
+-->
 <img src="https://leetcard.jacoblin.cool/drainbadenergy?theme=nord&font=JetBrains+Mono&ext=heatmap" alt="leetcode stats"/>
 
 <picture>
