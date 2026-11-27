@@ -14,14 +14,13 @@
 ```bash
 ayush@terminal:~$ whoami
 > B.Tech CSE @ Symbiosis Institute of Technology, Pune — Class of 2028 
-> Full-Stack Dev Intern @ DoughAsYouLike — Next.js / Express / MongoDB
+> Full-Stack Dev Intern
 > Currently teaching a PPO agent not to blow up a crypto portfolio
 > Status: probably debugging a stale API response cache somewhere
 ```
 ### 🚀 currently
 
 - 🔭 Building **TYCHE** — a PPO agent that has survived a simulated flash crash, a liquidity crisis, and a pump-and-dump without touching my actual savings
-- 🛠️ Shipping inventory tooling at **DoughAsYouLike** — RBAC, optimistic concurrency, and the occasional 2am stale-cache bug
 - 🌱 Reading up on market microstructure and multi-agent RL
 - 💬 Ask me about: why my trading bot respects stop-losses better than most humans do
 
