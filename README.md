@@ -75,15 +75,3 @@ Dockerized, deployed, cron-scheduled for zero-touch daily alerts straight to Tel
 <img height="165" src="https://github-readme-stats-mu-lyart-17.vercel.app/api/top-langs/?username=drainbadenergy&layout=compact&theme=synthwave&hide_border=true" alt="top languages"/>
 -->
 <img src="https://leetcard.jacoblin.cool/drainbadenergy?theme=nord&font=JetBrains+Mono&ext=heatmap" alt="leetcode stats"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drainbadenergy/drainbadenergy/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/drainbadenergy/drainbadenergy/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
----
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
-<sub>thanks for scrolling this far </sub>
-</div>
