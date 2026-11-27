@@ -2,7 +2,8 @@
 
 <img src="./assets/banner.svg" width="100%" alt="pixel art banner — a green candlestick uptrend launching a rocket past the moon"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=900&color=B18CFF&center=true&vCenter=true&width=700&lines=Ayush+Rai;Full-Stack+Dev+%40+DoughAsYouLike;Training+RL+agents+to+trade+crypto;Building+TYCHE+%F0%9F%9A%80;Sharpe+ratio%3A+1.2+%7C+Coffee+ratio%3A+%E2%88%9E" alt="typing animation"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=900&color=B18CFF&center=true&vCenter=true&width=700&lines=Ayush+Rai;Full-Stack+Developer;Training+RL+agents+to+trade+crypto;Building+TYCHE+%F0%9F%9A%80;Sharpe+ratio%3A+1.2+%7C+Coffee+ratio%3A+%E2%88%9E" alt="typing animation"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-rai-808999dgcd)
 [![LeetCode](https://img.shields.io/badge/LeetCode-solve-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/drainbadenergy)
